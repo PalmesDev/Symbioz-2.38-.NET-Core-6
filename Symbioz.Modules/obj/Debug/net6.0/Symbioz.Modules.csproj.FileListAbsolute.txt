@@ -1,0 +1,11 @@
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\bin\Debug\net6.0\Symbioz.Modules.deps.json
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\bin\Debug\net6.0\Symbioz.Modules.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\bin\Debug\net6.0\Symbioz.Modules.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\obj\Debug\net6.0\Symbioz.Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\obj\Debug\net6.0\Symbioz.Modules.AssemblyInfoInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\obj\Debug\net6.0\Symbioz.Modules.AssemblyInfo.cs
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\obj\Debug\net6.0\Symbioz.Modules.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\obj\Debug\net6.0\Symbioz.Modules.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\obj\Debug\net6.0\refint\Symbioz.Modules.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\obj\Debug\net6.0\Symbioz.Modules.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Modules\obj\Debug\net6.0\ref\Symbioz.Modules.dll

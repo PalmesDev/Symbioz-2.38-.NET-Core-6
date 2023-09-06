@@ -1,0 +1,12 @@
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\Symbioz.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\Symbioz.Core.AssemblyInfoInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\Symbioz.Core.AssemblyInfo.cs
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\Symbioz.Core.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\bin\Debug\net6.0\Symbioz.Core.deps.json
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\bin\Debug\net6.0\Symbioz.Core.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\bin\Debug\net6.0\Symbioz.Core.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\Symbioz.Core.csproj.AssemblyReference.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\Symbioz.Core.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\refint\Symbioz.Core.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\Symbioz.Core.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Core\obj\Debug\net6.0\ref\Symbioz.Core.dll

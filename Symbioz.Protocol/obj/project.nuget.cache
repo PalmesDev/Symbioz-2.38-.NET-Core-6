@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qmBhnTThaftUHrf+3uX/J+60qtfrYRu9HxvyEOcRemG1tn51F3vJzglw26Oh42LFOR6vdsucHsQyEY8QpsN3jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Protocol\\Symbioz.Protocol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garci\\.nuget\\packages\\yaxlib\\4.2.0\\yaxlib.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

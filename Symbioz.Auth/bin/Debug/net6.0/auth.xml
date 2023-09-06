@@ -1,0 +1,22 @@
+<!-- AuthServer Configuration -->
+<AuthConfiguration>
+  <DofusProtocolVersion>1709</DofusProtocolVersion>
+  <VersionInstall>1</VersionInstall>
+  <VersionMajor>2</VersionMajor>
+  <VersionMinor>38</VersionMinor>
+  <VersionRelease>0</VersionRelease>
+  <VersionPatch>1</VersionPatch>
+  <VersionRevision>113902</VersionRevision>
+  <VersionTechnology>1</VersionTechnology>
+  <VersionBuildType>0</VersionBuildType>
+  <Port>443</Port>
+  <ShowProtocolMessages>true</ShowProtocolMessages>
+  <Host>127.0.0.1</Host>
+  <SafeRun>false</SafeRun>
+  <TransitionHost>127.0.0.1</TransitionHost>
+  <TransitionPort>600</TransitionPort>
+  <DatabaseHost>127.0.0.1</DatabaseHost>
+  <DatabaseUser>root</DatabaseUser>
+  <DatabasePassword></DatabasePassword>
+  <DatabaseName>auth</DatabaseName>
+</AuthConfiguration>

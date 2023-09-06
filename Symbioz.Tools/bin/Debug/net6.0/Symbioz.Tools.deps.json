@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Symbioz.Tools/1.0.0": {
+        "dependencies": {
+          "SSync": "1.0.0",
+          "zlib.net": "1.0.4"
+        },
+        "runtime": {
+          "Symbioz.Tools.dll": {}
+        }
+      },
+      "YAXLib/4.2.0": {
+        "runtime": {
+          "lib/net6.0/YAXLib.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.2.0.335"
+          }
+        }
+      },
+      "zlib.net/1.0.4": {
+        "runtime": {
+          "lib/zlib.net.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "SSync/1.0.0": {
+        "dependencies": {
+          "Symbioz.Core": "1.0.0"
+        },
+        "runtime": {
+          "SSync.dll": {}
+        }
+      },
+      "Symbioz.Core/1.0.0": {
+        "dependencies": {
+          "YAXLib": "4.2.0"
+        },
+        "runtime": {
+          "Symbioz.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Symbioz.Tools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YAXLib/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c96kqFXCvKicuqLvGqkxFZvhVIxha8VJY52fWHyyIYRA6qOhh+2ohpxVOQmxIXX7HsRJ7WIOaZfJ50XN39Qg7A==",
+      "path": "yaxlib/4.2.0",
+      "hashPath": "yaxlib.4.2.0.nupkg.sha512"
+    },
+    "zlib.net/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ywKkVY1y20tGQsUnYgKupYm91L8GVrVgoEOFTjfR1Bb5Xiy5tBJu5SV9liIiW2h8/KQUBefE45vSythtNMmahQ==",
+      "path": "zlib.net/1.0.4",
+      "hashPath": "zlib.net.1.0.4.nupkg.sha512"
+    },
+    "SSync/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Symbioz.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

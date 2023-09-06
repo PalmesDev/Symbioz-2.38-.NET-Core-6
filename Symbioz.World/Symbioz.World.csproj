@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLua" Version="1.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SSync\SSync.csproj" />
+    <ProjectReference Include="..\Symbioz.Core\Symbioz.Core.csproj" />
+    <ProjectReference Include="..\Symbioz.ORM\Symbioz.ORM.csproj" />
+    <ProjectReference Include="..\Symbioz.Protocol\Symbioz.Protocol.csproj" />
+    <ProjectReference Include="..\Symbioz.Tools\Symbioz.Tools.csproj" />
+  </ItemGroup>
+
+</Project>

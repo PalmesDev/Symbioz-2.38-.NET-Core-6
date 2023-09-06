@@ -1,0 +1,31 @@
+<WorldConfiguration>
+  <UseCustomHost>false</UseCustomHost>
+  <CustomHost></CustomHost>
+  <ServerId>30</ServerId>
+  <ServerName>Many</ServerName>
+  <ServerType>1</ServerType>
+  <SaveInterval>300</SaveInterval>
+  <PerformBackup>true</PerformBackup>
+  <StartMapId>156762120</StartMapId>
+  <StartCellId>142</StartCellId>
+  <StartKamas>0</StartKamas>
+  <KamasRate>1</KamasRate>
+  <DropsRate>1</DropsRate>
+  <CraftRate>20</CraftRate>
+  <StartLevel>1</StartLevel>
+  <PlayDefaultCinematic>true</PlayDefaultCinematic>
+  <WelcomeMessage>Welcome on server</WelcomeMessage>
+  <MapKey>649ae451ca33ec53bbcbcc33becf15f4</MapKey>
+  <ApLimit>12</ApLimit>
+  <MpLimit>6</MpLimit>
+  <Port>5555</Port>
+  <ShowProtocolMessages>true</ShowProtocolMessages>
+  <Host>127.0.0.1</Host>
+  <SafeRun>true</SafeRun>
+  <TransitionHost>127.0.0.1</TransitionHost>
+  <TransitionPort>600</TransitionPort>
+  <DatabaseHost>127.0.0.1</DatabaseHost>
+  <DatabaseUser>root</DatabaseUser>
+  <DatabasePassword></DatabasePassword>
+  <DatabaseName>world</DatabaseName>
+</WorldConfiguration>

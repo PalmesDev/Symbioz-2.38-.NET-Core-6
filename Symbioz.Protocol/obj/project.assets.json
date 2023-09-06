@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "YAXLib/4.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/YAXLib.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/YAXLib.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "SSync/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Symbioz.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SSync.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SSync.dll": {}
+        }
+      },
+      "Symbioz.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "YAXLib": "4.2.0"
+        },
+        "compile": {
+          "bin/placeholder/Symbioz.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Symbioz.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YAXLib/4.2.0": {
+      "sha512": "c96kqFXCvKicuqLvGqkxFZvhVIxha8VJY52fWHyyIYRA6qOhh+2ohpxVOQmxIXX7HsRJ7WIOaZfJ50XN39Qg7A==",
+      "type": "package",
+      "path": "yaxlib/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "YAXLib_256x256.png",
+        "lib/net461/YAXLib.dll",
+        "lib/net461/YAXLib.xml",
+        "lib/net6.0/YAXLib.dll",
+        "lib/net6.0/YAXLib.xml",
+        "lib/netstandard2.0/YAXLib.dll",
+        "lib/netstandard2.0/YAXLib.xml",
+        "lib/netstandard2.1/YAXLib.dll",
+        "lib/netstandard2.1/YAXLib.xml",
+        "yaxlib.4.2.0.nupkg.sha512",
+        "yaxlib.nuspec"
+      ]
+    },
+    "SSync/1.0.0": {
+      "type": "project",
+      "path": "../SSync/SSync.csproj",
+      "msbuildProject": "../SSync/SSync.csproj"
+    },
+    "Symbioz.Core/1.0.0": {
+      "type": "project",
+      "path": "../Symbioz.Core/Symbioz.Core.csproj",
+      "msbuildProject": "../Symbioz.Core/Symbioz.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SSync >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\garci\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Protocol\\Symbioz.Protocol.csproj",
+      "projectName": "Symbioz.Protocol",
+      "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Protocol\\Symbioz.Protocol.csproj",
+      "packagesPath": "C:\\Users\\garci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Protocol\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\garci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\SSync\\SSync.csproj": {
+              "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\SSync\\SSync.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

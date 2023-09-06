@@ -1,0 +1,17 @@
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\Symbioz.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\Symbioz.Tools.AssemblyInfoInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\Symbioz.Tools.AssemblyInfo.cs
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\Symbioz.Tools.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\Symbioz.Tools.csproj.AssemblyReference.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\bin\Debug\net6.0\Symbioz.Tools.deps.json
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\bin\Debug\net6.0\Symbioz.Tools.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\bin\Debug\net6.0\Symbioz.Tools.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\bin\Debug\net6.0\SSync.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\bin\Debug\net6.0\Symbioz.Core.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\bin\Debug\net6.0\SSync.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\bin\Debug\net6.0\Symbioz.Core.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\Symbioz.Tools.csproj.CopyComplete
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\Symbioz.Tools.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\refint\Symbioz.Tools.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\Symbioz.Tools.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Tools\obj\Debug\net6.0\ref\Symbioz.Tools.dll

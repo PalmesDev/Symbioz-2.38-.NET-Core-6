@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SSync/1.0.0": {
+        "dependencies": {
+          "Symbioz.Core": "1.0.0"
+        },
+        "runtime": {
+          "SSync.dll": {}
+        }
+      },
+      "YAXLib/4.2.0": {
+        "runtime": {
+          "lib/net6.0/YAXLib.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.2.0.335"
+          }
+        }
+      },
+      "Symbioz.Core/1.0.0": {
+        "dependencies": {
+          "YAXLib": "4.2.0"
+        },
+        "runtime": {
+          "Symbioz.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSync/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YAXLib/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c96kqFXCvKicuqLvGqkxFZvhVIxha8VJY52fWHyyIYRA6qOhh+2ohpxVOQmxIXX7HsRJ7WIOaZfJ50XN39Qg7A==",
+      "path": "yaxlib/4.2.0",
+      "hashPath": "yaxlib.4.2.0.nupkg.sha512"
+    },
+    "Symbioz.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

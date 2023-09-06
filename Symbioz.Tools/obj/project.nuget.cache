@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "FuFJPAr7oZBjTXNx5+d9BBrgusXUNThSBqwYXV9y21+o1iegIY9RwVeMG8oiDukmcqSbHthLtEiLMNVvqzKK+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Tools\\Symbioz.Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garci\\.nuget\\packages\\yaxlib\\4.2.0\\yaxlib.4.2.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\zlib.net\\1.0.4\\zlib.net.1.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'zlib.net 1.0.4' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net6.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "zlib.net",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

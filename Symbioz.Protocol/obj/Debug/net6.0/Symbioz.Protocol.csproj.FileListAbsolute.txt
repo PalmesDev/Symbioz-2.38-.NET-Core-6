@@ -1,0 +1,17 @@
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\Symbioz.Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\Symbioz.Protocol.AssemblyInfoInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\Symbioz.Protocol.AssemblyInfo.cs
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\Symbioz.Protocol.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\Symbioz.Protocol.csproj.AssemblyReference.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\bin\Debug\net6.0\Symbioz.Protocol.deps.json
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\bin\Debug\net6.0\Symbioz.Protocol.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\bin\Debug\net6.0\Symbioz.Protocol.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\bin\Debug\net6.0\SSync.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\bin\Debug\net6.0\Symbioz.Core.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\bin\Debug\net6.0\SSync.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\bin\Debug\net6.0\Symbioz.Core.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\Symbioz.Protocol.csproj.CopyComplete
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\Symbioz.Protocol.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\refint\Symbioz.Protocol.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\Symbioz.Protocol.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.Protocol\obj\Debug\net6.0\ref\Symbioz.Protocol.dll

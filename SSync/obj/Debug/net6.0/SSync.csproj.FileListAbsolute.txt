@@ -1,0 +1,15 @@
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\SSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\SSync.AssemblyInfoInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\SSync.AssemblyInfo.cs
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\SSync.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\SSync.csproj.AssemblyReference.cache
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\bin\Debug\net6.0\SSync.deps.json
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\bin\Debug\net6.0\SSync.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\bin\Debug\net6.0\SSync.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\bin\Debug\net6.0\Symbioz.Core.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\bin\Debug\net6.0\Symbioz.Core.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\SSync.csproj.CopyComplete
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\SSync.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\refint\SSync.dll
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\SSync.pdb
+C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\SSync\obj\Debug\net6.0\ref\SSync.dll
