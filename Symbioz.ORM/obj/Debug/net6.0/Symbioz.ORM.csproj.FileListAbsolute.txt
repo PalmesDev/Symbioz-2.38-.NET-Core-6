@@ -13,3 +13,18 @@ C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.ORM\obj\Debug\net6.
 C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.ORM\obj\Debug\net6.0\refint\Symbioz.ORM.dll
 C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.pdb
 C:\Users\garci\source\repos\Symbioz 2.38 .NET Core 6\Symbioz.ORM\obj\Debug\net6.0\ref\Symbioz.ORM.dll
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\bin\Debug\net6.0\Symbioz.ORM.deps.json
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\bin\Debug\net6.0\Symbioz.ORM.dll
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\bin\Debug\net6.0\Symbioz.ORM.pdb
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\bin\Debug\net6.0\Symbioz.Core.dll
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\bin\Debug\net6.0\Symbioz.Core.pdb
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.csproj.AssemblyReference.cache
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.AssemblyInfoInputs.cache
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.AssemblyInfo.cs
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.csproj.CopyComplete
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.dll
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\refint\Symbioz.ORM.dll
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\Symbioz.ORM.pdb
+C:\Users\garci\Documents\GitHub\Symbioz-2.38-.NET-Core-6\Symbioz.ORM\obj\Debug\net6.0\ref\Symbioz.ORM.dll

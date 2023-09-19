@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WpHneAV/Zv4yKZBxod6FxP8koPeMxwPDIvPcVpi5RlWRJzympQRE95CBudupvvtsVWWhUvGoLmrgDa4QE3x6Dw==",
+  "dgSpecHash": "CaqpfXxf3lNK2559xHmPWPo1f5EIkdN2N7nV/Okh2QWwH97TJAuRwpNkowUbEtfWH3koigPzQ+1yXHBb+cA51w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Auth\\Symbioz.Auth.csproj",
+  "projectFilePath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Auth\\Symbioz.Auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garci\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\garci\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

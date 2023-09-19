@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FuFJPAr7oZBjTXNx5+d9BBrgusXUNThSBqwYXV9y21+o1iegIY9RwVeMG8oiDukmcqSbHthLtEiLMNVvqzKK+Q==",
+  "dgSpecHash": "9V9w1MQ7XIALx56lDexvxVsGrqiUIP4tg4Ld8C5HY4XUwDwhQuZqofnAbH1XlH0GwT+9yKdlcQdoAaDWO6iIkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Tools\\Symbioz.Tools.csproj",
+  "projectFilePath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Tools\\Symbioz.Tools.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garci\\.nuget\\packages\\yaxlib\\4.2.0\\yaxlib.4.2.0.nupkg.sha512",
     "C:\\Users\\garci\\.nuget\\packages\\zlib.net\\1.0.4\\zlib.net.1.0.4.nupkg.sha512"

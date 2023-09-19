@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JYnQV3V26HUSA73ZF9k/LmG6wbNaYO5gx2JmTxyDh/I0gtmKG50MMIXNA1JkbtqTDw8bSlL7BZzcAeOzghBvjA==",
+  "dgSpecHash": "3ZcTYIrVQGadfV3SB3sRyTihIw9xmHNe0A9WkEvBm2SklA9mdQ+vY/3aIlBfzphH2xsQFzegax2JZnCO8CzXIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.World\\Symbioz.World.csproj",
+  "projectFilePath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.World\\Symbioz.World.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garci\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\garci\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

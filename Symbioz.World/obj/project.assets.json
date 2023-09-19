@@ -2152,11 +2152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.World\\Symbioz.World.csproj",
+      "projectUniqueName": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.World\\Symbioz.World.csproj",
       "projectName": "Symbioz.World",
-      "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.World\\Symbioz.World.csproj",
+      "projectPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.World\\Symbioz.World.csproj",
       "packagesPath": "C:\\Users\\garci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.World\\obj\\",
+      "outputPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\garci\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2173,20 +2173,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\SSync\\SSync.csproj": {
-              "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\SSync\\SSync.csproj"
+            "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\SSync\\SSync.csproj": {
+              "projectPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\SSync\\SSync.csproj"
             },
-            "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj": {
-              "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj"
+            "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Core\\Symbioz.Core.csproj": {
+              "projectPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Core\\Symbioz.Core.csproj"
             },
-            "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.ORM\\Symbioz.ORM.csproj": {
-              "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.ORM\\Symbioz.ORM.csproj"
+            "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.ORM\\Symbioz.ORM.csproj": {
+              "projectPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.ORM\\Symbioz.ORM.csproj"
             },
-            "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Protocol\\Symbioz.Protocol.csproj": {
-              "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Protocol\\Symbioz.Protocol.csproj"
+            "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Protocol\\Symbioz.Protocol.csproj": {
+              "projectPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Protocol\\Symbioz.Protocol.csproj"
             },
-            "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Tools\\Symbioz.Tools.csproj": {
-              "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Tools\\Symbioz.Tools.csproj"
+            "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Tools\\Symbioz.Tools.csproj": {
+              "projectPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Tools\\Symbioz.Tools.csproj"
             }
           }
         }

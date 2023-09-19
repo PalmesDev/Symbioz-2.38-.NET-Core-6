@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qmBhnTThaftUHrf+3uX/J+60qtfrYRu9HxvyEOcRemG1tn51F3vJzglw26Oh42LFOR6vdsucHsQyEY8QpsN3jw==",
+  "dgSpecHash": "WAMLzSFYe0BtoDZOo2qrLyJ3MNiiY8NLoVG23Ys/siQ5TGJgqMj/1KutX9cWNE0UPJ4sQ/DXnGosly3fUbdBsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Protocol\\Symbioz.Protocol.csproj",
+  "projectFilePath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Protocol\\Symbioz.Protocol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\garci\\.nuget\\packages\\yaxlib\\4.2.0\\yaxlib.4.2.0.nupkg.sha512"
   ],

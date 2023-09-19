@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj",
+      "projectUniqueName": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Core\\Symbioz.Core.csproj",
       "projectName": "Symbioz.Core",
-      "projectPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj",
+      "projectPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Core\\Symbioz.Core.csproj",
       "packagesPath": "C:\\Users\\garci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\garci\\source\\repos\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\obj\\",
+      "outputPath": "C:\\Users\\garci\\Documents\\GitHub\\Symbioz-2.38-.NET-Core-6\\Symbioz.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\garci\\AppData\\Roaming\\NuGet\\NuGet.Config",
