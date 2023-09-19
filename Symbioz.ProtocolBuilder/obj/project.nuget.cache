@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "YnBd5XFbxwUIUsZCyDUl0Vy2U4ibfsGKyDMDGGGl8EXADJAQl0RpbdlonFtuhSH8PH7k3t+THckvL7VLw3d+bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.ProtocolBuilder\\Symbioz.ProtocolBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.1\\microsoft.netcore.platforms.5.0.1.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.visualstudio.remotecontrol\\16.3.44\\microsoft.visualstudio.remotecontrol.16.3.44.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.visualstudio.telemetry\\16.6.21\\microsoft.visualstudio.telemetry.16.6.21.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.visualstudio.texttemplating\\17.5.33428.366\\microsoft.visualstudio.texttemplating.17.5.33428.366.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.visualstudio.texttemplating.interfaces\\17.5.33428.366\\microsoft.visualstudio.texttemplating.interfaces.17.5.33428.366.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.visualstudio.texttemplating.interfaces.10.0\\17.0.32112.339\\microsoft.visualstudio.texttemplating.interfaces.10.0.17.0.32112.339.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.visualstudio.texttemplating.interfaces.11.0\\17.0.31902.203\\microsoft.visualstudio.texttemplating.interfaces.11.0.17.0.31902.203.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.visualstudio.utilities.internal\\16.3.38\\microsoft.visualstudio.utilities.internal.16.3.38.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.1\\system.diagnostics.performancecounter.5.0.1.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\garci\\.nuget\\packages\\yaxlib\\4.2.0\\yaxlib.4.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'Microsoft.VisualStudio.TextTemplating 17.5.33428.366' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net6.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "Microsoft.VisualStudio.TextTemplating",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'Microsoft.VisualStudio.TextTemplating.Interfaces 17.5.33428.366' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net6.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "Microsoft.VisualStudio.TextTemplating.Interfaces",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

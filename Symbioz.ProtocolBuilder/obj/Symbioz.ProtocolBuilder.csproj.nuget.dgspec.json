@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.ProtocolBuilder\\Symbioz.ProtocolBuilder.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj",
+        "projectName": "Symbioz.Core",
+        "projectPath": "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj",
+        "packagesPath": "C:\\Users\\garci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\garci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "YAXLib": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.ProtocolBuilder\\Symbioz.ProtocolBuilder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.ProtocolBuilder\\Symbioz.ProtocolBuilder.csproj",
+        "projectName": "Symbioz.ProtocolBuilder",
+        "projectPath": "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.ProtocolBuilder\\Symbioz.ProtocolBuilder.csproj",
+        "packagesPath": "C:\\Users\\garci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.ProtocolBuilder\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\garci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj": {
+                "projectPath": "C:\\Users\\garci\\Desktop\\emulation-code\\Symbioz 2.38 .NET Core 6\\Symbioz.Core\\Symbioz.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.TextTemplating": {
+              "target": "Package",
+              "version": "[17.5.33428.366, )"
+            },
+            "Microsoft.VisualStudio.TextTemplating.Interfaces.10.0": {
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            },
+            "System.CodeDom": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "YAXLib": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
